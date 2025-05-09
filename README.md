@@ -1,16 +1,23 @@
-## Hi there 👋
+# 🌙✨ Dear my friends
 
-<!--
-**meth-star2/meth-star2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌐 My Interests
 
-Here are some ideas to get you started:
+- **Automation Software**: Making software for automation using Selenium.
+- **Telegram Bots**: Creating and managing Telegram bots.
+- **Web Scraping**: Parsing information from websites.
+- **Web Development**: Creating and installing websites using Node.js or PHP Laravel.
+- **AI Integration**: Working with ChatGPT to improve work speed.
+- **Testing and Debugging**: Testing projects and solving bugs.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Stats
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)](https://github.com/yourusername)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)](https://github.com/yourusername)
+
+## 📬 Contacts
+
+- **Website**: [Your Website](http://yourwebsite.com)
+- **Telegram**: [Your Telegram](https://t.me/yourtelegram)
+- **Email**: [Your Email](mailto:youremail@example.com)
+
+Good Night... 😊
